@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 
 # How to Run Project
 ```
+# 1
 npm install
 
 ```
