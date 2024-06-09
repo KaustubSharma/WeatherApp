@@ -17,7 +17,7 @@ npm install
 ```
 npm run dev
 ```
-# Technologies Used
+# Tech Stack Used
 
 ## HTML (Hypertext Markup Language)
 
