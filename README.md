@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Deployed Website
-https://drive.google.com/drive/folders/1O3HUMqr7CL0XjxmX9JjH8zC240iEGsrb?usp=sharing
+https://getlatestweather.netlify.app/
 
 # How to Run Project
 
