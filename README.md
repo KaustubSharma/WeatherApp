@@ -9,10 +9,7 @@ Currently, two official plugins are available:
 
 # How to Run Project
 
-# Install Node.js: Make sure to have Node.js installed on the computer. ```
-https://nodejs.org/en
-```
-
+# Install Node.js: Make sure to have Node.js installed on the computer. ``` https://nodejs.org/en ```
 
 ```
 npm install
