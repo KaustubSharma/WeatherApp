@@ -19,11 +19,11 @@ npm run dev
 ```
 # Tech Stack Used
 
-## HTML (Hypertext Markup Language)
+## HTML
 
 HTML is the standard markup language for creating web pages and web applications. It defines the structure of content on a web page using elements such as headings, paragraphs, images, and links.
 
-## CSS (Cascading Style Sheets)
+## CSS
 
 CSS is used for styling HTML elements, allowing developers to control the layout, colors, fonts, and other visual aspects of a web page. It enables the separation of content from presentation, making websites more flexible and easier to maintain.
 
