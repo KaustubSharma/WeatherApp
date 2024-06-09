@@ -8,7 +8,12 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # How to Run Project
+
 # Install Node.js: Make sure to have Node.js installed on the computer.
+
+```
+https://nodejs.org/en
+```
 ```
 npm install
 ```
